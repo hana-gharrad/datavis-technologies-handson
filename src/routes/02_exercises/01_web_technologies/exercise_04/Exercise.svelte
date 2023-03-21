@@ -1,1 +1,1 @@
-Marks are basic geometric elements that depict items and links.
+<em>Marks</em>  are <s> basic </s> geometric <strong> elements </strong> that depict items and links.
